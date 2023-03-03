@@ -1,0 +1,12 @@
+body > div:first-child {
+	overflow-x: hidden;
+}
+
+.svg-wrapper{
+	display: flex;
+	justify-content: center;
+}
+
+.svg-container{
+	width: 85%;
+}
